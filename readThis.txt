@@ -1,1 +1,9 @@
 Created text file on local
+
+git init
+add
+commit
+
+then make repo from github
+git remote add origin https://github.com/scfulton/CreatedOnLocalMachine.git
+git push -u origin master
